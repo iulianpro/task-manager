@@ -3,3 +3,5 @@
 settings.json
 launch.json
 *.sh
+env.py
+*.pyc
