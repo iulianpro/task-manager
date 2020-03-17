@@ -1,0 +1,5 @@
+*.dockerfile
+*.yml
+settings.json
+launch.json
+*.sh
